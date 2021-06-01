@@ -11,4 +11,4 @@ Its main idea is to write, edit and delete memos and add them to the favorite me
 
 </p>
 <br />
-<img src="https://github.com/mohamadbahmad/Memo-App-ReactJs-Laravel7/blob/main/memo.png" />
+<img src="https://github.com/mohamadbahmad/Memo-App-ReactJs-Laravel7/blob/main/memo.PNG" />
