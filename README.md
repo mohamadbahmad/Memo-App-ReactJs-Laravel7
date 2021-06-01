@@ -9,11 +9,13 @@
 
 ## About Memo App
 
-<p>
-<i style="color:red;">
+<p style="color:red;">
+    <b>
+<i>
 This is a simple app that I created with React and Laravel.<br>
 Its main idea is to write, edit and delete memos and add them to the favorite memories list
 </i>
+    </b>
 <br>
 </p>
 
