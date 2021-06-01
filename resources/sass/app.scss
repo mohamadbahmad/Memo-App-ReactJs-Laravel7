@@ -1,0 +1,41 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+body{
+    font-family: nunito sans-serif;
+    font-size: 1rem;
+}
+.background--pink{
+    background-color:lightcoral;
+}
+
+.margin-bottom
+{
+    margin-bottom: 1rem;
+}
+
+.text--red{
+    color: red;
+}
+.text--blueviolet{
+    color: blueviolet;
+}
+
+.margin{
+    margin-top: 2rem;
+}
+
+.border{
+    border-radius: 5px;
+    border: 1rem;
+    border-color: azure;
+}
