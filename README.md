@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -9,14 +9,18 @@
 
 ## About Memo App
 
-<p style="color:red;">
+<p>
+    <span style="color:red;">
     <b>
 <i>
 This is a simple app that I created with React and Laravel.<br>
 Its main idea is to write, edit and delete memos and add them to the favorite memories list
 </i>
     </b>
+        </span>
 <br>
+    
+    <img src="https://github.com/mohamadbahmad/Memo-App-ReactJs-Laravel7/blob/main/memo.jpg">
 </p>
 
 
