@@ -20,7 +20,7 @@ Its main idea is to write, edit and delete memos and add them to the favorite me
         </span>
 <br>
     
-    <img src="https://github.com/mohamadbahmad/Memo-App-ReactJs-Laravel7/blob/main/memo.jpg">
+    <img src="https://github.com/mohamadbahmad/Memo-App-ReactJs-Laravel7/blob/main/memo.jpg" />
 </p>
 
 
